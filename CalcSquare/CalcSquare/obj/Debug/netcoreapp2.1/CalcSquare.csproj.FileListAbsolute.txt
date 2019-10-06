@@ -1,0 +1,11 @@
+C:\Users\SV\Desktop\Square\CalcSquare\CalcSquare\CalcSquare\bin\Debug\netcoreapp2.1\CalcSquare.deps.json
+C:\Users\SV\Desktop\Square\CalcSquare\CalcSquare\CalcSquare\bin\Debug\netcoreapp2.1\CalcSquare.runtimeconfig.json
+C:\Users\SV\Desktop\Square\CalcSquare\CalcSquare\CalcSquare\bin\Debug\netcoreapp2.1\CalcSquare.runtimeconfig.dev.json
+C:\Users\SV\Desktop\Square\CalcSquare\CalcSquare\CalcSquare\bin\Debug\netcoreapp2.1\CalcSquare.dll
+C:\Users\SV\Desktop\Square\CalcSquare\CalcSquare\CalcSquare\bin\Debug\netcoreapp2.1\CalcSquare.pdb
+C:\Users\SV\Desktop\Square\CalcSquare\CalcSquare\CalcSquare\obj\Debug\netcoreapp2.1\CalcSquare.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\Square\CalcSquare\CalcSquare\CalcSquare\obj\Debug\netcoreapp2.1\CalcSquare.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\Square\CalcSquare\CalcSquare\CalcSquare\obj\Debug\netcoreapp2.1\CalcSquare.AssemblyInfoInputs.cache
+C:\Users\SV\Desktop\Square\CalcSquare\CalcSquare\CalcSquare\obj\Debug\netcoreapp2.1\CalcSquare.AssemblyInfo.cs
+C:\Users\SV\Desktop\Square\CalcSquare\CalcSquare\CalcSquare\obj\Debug\netcoreapp2.1\CalcSquare.dll
+C:\Users\SV\Desktop\Square\CalcSquare\CalcSquare\CalcSquare\obj\Debug\netcoreapp2.1\CalcSquare.pdb
